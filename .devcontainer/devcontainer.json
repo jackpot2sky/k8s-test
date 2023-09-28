@@ -1,6 +1,7 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
-    "ghcr.io/rio/features/skaffold:2": {}
+    "ghcr.io/rio/features/skaffold:2": {},
+    "ghcr.io/devcontainers-contrib/features/elasticsearch-asdf:2": {}
   }
 }
